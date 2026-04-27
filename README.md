@@ -1,4 +1,4 @@
-# Rapport LAB 1 — Setup Frida
+# Rapport LAB 10 — Setup Frida
 
 **Date :** 27/04/2026
 **Analyste :** Oussama Bagy
